@@ -6,9 +6,8 @@
 - 📫 Contate-me no email: mbsf@cesar.school
 - 😄 Pronouns: ela/dela.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianefontes&count_private=true&theme=vision-friendly-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianefontes)](https://github.com/marianefontes/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianefontes&layout=compact)](https://github.com/marianefontes/github-readme-stats)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianefontes&count_private=true&theme=vision-friendly-dark) <img width="45%" src="link"> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianefontes&layout=compact&theme=vision-friendly-dark)](https://github.com/marianefontes/github-readme-stats)]  <img width="45%" src="link">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mariane-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
