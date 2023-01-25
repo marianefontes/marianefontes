@@ -6,5 +6,4 @@
 - 📫 Contate-me no email: mbsf@cesar.school
 - 😄 Pronouns: ela/dela.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianefontes)](https://github.com/marianefontes/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianefontes&count_private=true)
