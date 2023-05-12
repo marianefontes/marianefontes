@@ -20,7 +20,7 @@
   <img align="center" alt="Mari-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Mari-Django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"/>
 </div>
-
+<br>
 <div align="center"> 
 <a href="https://instagram.com/marianebsfontes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
  <a href="https://www.linkedin.com/in/marianebsfontes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
@@ -32,6 +32,6 @@
   
 ##
 
-![Snake animation](https://github.com/Lucasgdbs/Lucasgdbs/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/marianefontes/marianefontes/blob/output/github-contribution-grid-snake.svg)
   
  
