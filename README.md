@@ -32,6 +32,5 @@
   
 ##
 
-![Snake animation](https://github.com/marianefontes/marianefontes/blob/output/github-contribution-grid-snake.svg)
   
  
