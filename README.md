@@ -1,50 +1,36 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000height=100&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Mariane+Fontes;Sou+desenvolvedora+de+Software!)](https://git.io/typing-svg)
-
-<p align="justify">✨🖤 Hello World! Eu tenho 23 anos e atualmente sou desenvolvedora de software na CESAR, onde estudo Ciência da Computação e faço meu estágio como desenvolvedora front-end.</p>
-
-<br>
-
-<p align="center">
-  <img height="250em" src="https://metrics.lecoq.io/marianefontes" alt="GitHub metrics"/>
-<img width="400px" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianefontes&layout=compact&theme=white" alt="Linguagens mais usadas:"/>
-</p>
-
-<br>
-
-### 🖥 Tecnologias que eu domino:
-
-<hr>
-
-<div style="display: inline_block">
-<img align="center" alt="Mari-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
-<img align="center" alt="Mari-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-<img align="center" alt="Mari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Mari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Mari-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+<div align="center">
+    <p>Hello, World! I’m a Software Developer with experience in <b>Full Stack Development</b> and <b>Technical Support</b>. I’m currently pursuing a degree in Computer Science at CESAR School and working as a Full-Stack Developer in the website team of a Design System. My main interests include <b>front-end development</b>, <b>artificial intelligence</b>, <b>UI/UX improvements</b>, and <b>research</b>. I'm always looking for new challenges and opportunities to grow in tech.</p>
 </div>
-<br>
 
-### 🖥 Tecnologias que estou aprendendo:
 
-<hr>
+### 🖥Technologies I’m Experienced In and Advancing:
 
-<div style="display: inline_block">
+<hr> <div style="display: inline_block"> 
+<img align="center" alt="Mari-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+<img align="center" alt="Mari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
+<img align="center" alt="Mari-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
 <img align="center" alt="Mari-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <img align="center" alt="Mari-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img align="center" alt="Mari-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-<img align="center" alt="Mari-ESLint" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg">
 <img align="center" alt="Mari-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-</div>
-<br>
+<img align="center" alt="Mari-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 
-### 📲 Minhas redes para contato:
+</div> <br>
+
+### 🖥 Technologies I’m Exploring and Strengthening My Knowledge In:
+
+<hr> <div style="display: inline_block">
+  <img align="center" alt="Mari-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="Mari-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Mari-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+</div> <br>
+
+### 📲 Get in Touch:
 
 <hr>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianebsfontes/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marianebsfontes/)
 <a href = "mailto:mbsf@cesar.school"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
 
