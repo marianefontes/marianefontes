@@ -1,4 +1,5 @@
 {
+  "username": "marianefontes",
   "widgets": [
     {
       "widgetId": "header",
@@ -11678,8 +11679,7 @@
           "mongodb",
           "mysql",
           "git",
-          "docker",
-          "threejs"
+          "docker"
         ],
         "theme": "dark"
       },
@@ -11716,5 +11716,10 @@
     "themeMode": "dark",
     "templateStyle": "native_advanced"
   },
-  "templateId": "native_advanced"
+  "templateId": "native_advanced",
+  "profileSlug": "default",
+  "metadata": {
+    "revision": "rev_1792005428608_wqk3c",
+    "updatedAt": "2026-10-14T19:17:11.743Z"
+  }
 }
