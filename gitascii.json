@@ -86,7 +86,7 @@
       "name": "Footer Widget",
       "position": {
         "x": 0,
-        "y": 1074
+        "y": 824
       },
       "size": {
         "width": 800,
@@ -11672,37 +11672,24 @@
           "js",
           "ts",
           "py",
-          "html",
-          "css",
+          "php",
+          "astro",
           "react",
           "nextjs",
-          "mongodb",
+          "nodejs",
+          "django",
           "mysql",
+          "mongodb",
+          "insomnia",
           "git",
           "docker"
         ],
-        "theme": "dark"
+        "theme": "dark",
+        "perLine": 14
       },
       "locked": false,
       "visible": true,
       "zIndex": 8
-    },
-    {
-      "instanceId": "widget_1792004881127",
-      "widgetId": "contribution-snake",
-      "name": "Contribution-snake Widget",
-      "position": {
-        "x": 0,
-        "y": 824
-      },
-      "size": {
-        "width": 800,
-        "height": 250
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 9
     }
   ],
   "globalStyles": {
@@ -11719,7 +11706,7 @@
   "templateId": "native_advanced",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1792005428608_wqk3c",
-    "updatedAt": "2026-10-14T19:17:11.743Z"
+    "revision": "rev_1792005899373_x7y7g",
+    "updatedAt": "2026-10-14T19:25:03.120Z"
   }
 }
